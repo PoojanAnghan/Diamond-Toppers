@@ -1,0 +1,6 @@
+{
+  "api_url": "https://app.vdbapp.com/v3/vdb/search_diamonds?device=web&device_type=web&system_browser=0.0.0&os_version=10.15.7&system_os=Mac+OS&system_screen_size=1465x856&system_minimal_view=false&system_platform=0&system_ui=0&system_app_version=&app_version=&locale=en&currency=USD&time_zone=Asia%2FKolkata",
+  "authorization": "Token token=dvrkmwuyk3drwk2wk8py,installation_identifier=ad8499ff-f235-4c67-a965-23cbe39d093e",
+  "cookie": "_ga=GA1.1.2122884464.1781279472; _tcfpup=1781279475571; ti_ukp=c77e8d19.7167.21d5.95d8.cce06a22225d; _tcSessInfo={\"timestamp\":1782022356201,\"pageView\":1}; _tcSecSess={\"sess\":\"dadaa5e81ffbe4779af2cfb4e63\",\"device_type\":\"desktop\",\"ip\":\"103.178.47.169\",\"tcvfp\":\"cc4fb2a5-f001-8c50-4731-e1574a53856a\",\"locale\":\"en\",\"country\":\"\",\"city\":\"\",\"region\":\"\",\"timestamp\":1782022357390}; _ga_HFVYLEYJQ4=GS2.1.s1782022355$o4$g0$t1782022358$j57$l0$h148580214; _tcafterScoket=1; vdb-server_session=89e6661a7473c7b5a48c1541657f16dc; _ga_0DNFXXT5FP=GS2.1.s1782025620$o10$g1$t1782025622$j58$l0$h0; _dd_s=aid=9f575f63-b91c-4bb3-b8f9-7794d95b2a4e&rum=0&expire=1782031206190; _mkra_stck=3600cf47560bd573f086eb2a469ae290%3A1782030312.3299897",
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+}
